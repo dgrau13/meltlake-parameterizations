@@ -32,8 +32,9 @@ Predicting Mean Depth and Area Fraction of Antarctic Supraglacial Melt Lakes wit
 
 ## [Functions](https://github.com/dgrau13/meltlake-parameterizations/tree/main/Functions)
 
-[DrainCWalker_ndc.m](https://github.com/dgrau13/meltlake-parameterizations/blob/main/Functions/DrainCWalker_ndc.m)
-  Cellular Automaton Model script, which takes uses the 
+[DrainCWalker_ndc.m](https://github.com/dgrau13/meltlake-parameterizations/blob/main/Functions/DrainCWalker_ndc.m) - Cellular Automaton Model used to simulate the flow and distribution of melt across the surface at various melt supply volumes. 
+
+[coord_dist.m](https://github.com/dgrau13/meltlake-parameterizations/blob/main/Functions/coord_dist.m) - Calculates the distance between two lat,lon points.
 
 
 
