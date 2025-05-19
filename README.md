@@ -13,6 +13,8 @@ Predicting Mean Depth and Area Fraction of Antarctic Supraglacial Melt Lakes wit
 
 [AntarctiaPlots.m](https://github.com/dgrau13/meltlake-parameterizations/blob/main/ICESat2-TrackAnalysis/AntarcticaPlots.m)
 
+[InterPlot.m](https://github.com/dgrau13/meltlake-parameterizations/blob/main/ICESat2-TrackAnalysis/InterPlot.m)
+
 
 
 ## [MonteCarloSims-Workflow](https://github.com/dgrau13/meltlake-parameterizations/tree/main/MonteCarloSims-Workflow)
