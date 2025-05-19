@@ -1,4 +1,4 @@
-%load("Inter_NewFreq.mat")
+load("Inter_NewFreq.mat")
 i = abs(inter.angle(:,2)-inter.angle(:,1))>1;
 mdl_H=fitlm(inter.H(i,2),inter.H(i,1));
 mdl_sigma = fitlm(inter.sigma(i,2), inter.sigma(i,1));
